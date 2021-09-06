@@ -37,7 +37,7 @@ O),s=s.replace(Q,""),g.jsExtRegExp.test(s)&&(s=I),q.deps=q.deps?q.deps.concat(s)
 
 
 tbquire.config({
-	baseUrl: TBUI.uri + '/js',
+	baseUrl: '//cdn.jsdelivr.net/gh/couldbeloveu/da72/js',
 	urlArgs: 'ver=' + TBUI.ver,
 	paths: {
 		'qcaptcha'      : 'https://ssl.captcha.qq.com/TCaptcha',
